@@ -15,3 +15,4 @@ Start of the main view (front): Execute the command 'npm start' in the front dir
 Administrator User Data email: super@administrador.com
 
 password: "123456"
+Hello, it's Dipendra
